@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:19
+-keep class course.labs.permissionslab.ActivityLoaderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class course.labs.permissionslab.BookmarksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class course.labs.permissionslab.GoToDangerousActivity { <init>(...); }
+

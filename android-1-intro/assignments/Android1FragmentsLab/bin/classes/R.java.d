@@ -1,0 +1,24 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\gen\course\labs\fragmentslab\R.java \
+ : C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\layout\feed.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\layout\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\layout\main_activity.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\layout-large\main_activity.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\menu\activity_friends.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\menu\activity_main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\menu\feed.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\raw\ladygaga.txt \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\raw\rebeccablack.txt \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\raw\taylorswift.txt \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\values\strings.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\values\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\values-v11\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\res\values-v14\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1FragmentsLab\bin\AndroidManifest.xml \

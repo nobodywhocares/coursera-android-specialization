@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:15
+-keep class edu.vuum.mocca.PingPongActivity { <init>(...); }
+
+# onClick res/layout/activity_ping_pong.xml #generated:18
+-keepclassmembers class * { *** playButtonClicked(...); }
+

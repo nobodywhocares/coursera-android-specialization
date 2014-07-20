@@ -1,0 +1,20 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\gen\course\labs\intentslab\mybrowser\R.java \
+ : C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\layout\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\layout\my_browser_activity.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\menu\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values\strings.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values-sw600dp\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values-sw720dp-land\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values-v11\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\res\values-v14\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1Lab3\bin\AndroidManifest.xml \

@@ -1,0 +1,24 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes.dex : \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$2.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$3.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$4.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$5.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$DatePickerFragment.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity$TimePickerFragment.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\AddToDoActivity.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\BuildConfig.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$attr.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$dimen.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$drawable.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$id.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$layout.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R$string.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\R.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoItem$Priority.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoItem$Status.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoItem.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoListAdapter$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoListAdapter.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoManagerActivity$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1UserLab\bin\classes\course\labs\todomanager\ToDoManagerActivity.class \

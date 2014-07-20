@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:44
+-keep class edu.vanderbilt.mooc.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class edu.vuum.mocca.ui.story.CreateStoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class edu.vuum.mocca.ui.story.EditStoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class edu.vuum.mocca.ui.story.SoundRecordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class edu.vuum.mocca.ui.story.StoryListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class edu.vuum.mocca.ui.story.ViewStoryActivity { <init>(...); }
+
+# onClick res/layout/story_creation_fragment.xml #generated:122
+-keepclassmembers class * { *** addAudioClicked(...); }
+
+# onClick res/layout/story_creation_fragment.xml #generated:198
+-keepclassmembers class * { *** addPhotoClicked(...); }
+
+# onClick res/layout/story_creation_fragment.xml #generated:150
+-keepclassmembers class * { *** addVideoClicked(...); }
+
+# onClick res/layout/story_creation_fragment.xml #generated:230
+-keepclassmembers class * { *** getDateClicked(...); }
+
+# onClick res/layout/story_creation_fragment.xml #generated:251
+-keepclassmembers class * { *** getLocationClicked(...); }
+
+# onClick res/layout/story_listview.xml #generated:64
+-keepclassmembers class * { *** test(...); }
+

@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:16
+-keep class course.labs.intentslab.ActivityLoaderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class course.labs.intentslab.ExplicitlyLoadedActivity { <init>(...); }
+

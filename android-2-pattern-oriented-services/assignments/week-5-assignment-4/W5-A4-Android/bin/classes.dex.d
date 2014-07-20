@@ -1,0 +1,27 @@
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes.dex : \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$dimen.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$attr.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/AndroidPlatformStrategy.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlayPingPong$PingPongThread.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$string.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/Options.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$id.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategy.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlayPingPong$PingPongThreadCond.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PingPongActivity.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/AndroidPlatformStrategy$1.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$drawable.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategyFactory.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategyFactory$2.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$style.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategyFactory$IPlatformStrategyFactoryStrategy.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlayPingPong.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/BuildConfig.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/R$layout.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/ConsolePlatformStrategy.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategyFactory$1.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlayPingPong$PingPongThreadSema.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/Main.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/classes/edu/vuum/mocca/PlatformStrategyFactory$PlatformType.class \
+/home/noahn/mpm/edu/POSA-14/assignments/week-5-assignment-4/W5-A4-Android/bin/dexedLibs/android-support-v4-8e4def08a31c128a1c0dc71974de3d7e.jar \

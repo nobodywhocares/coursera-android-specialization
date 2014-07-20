@@ -1,0 +1,11 @@
+# view AndroidManifest.xml #generated:29
+# view large\res/layout-large/main_activity.xml #generated:16
+-keep class course.labs.fragmentslab.FeedFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+# view large\res/layout-large/main_activity.xml #generated:9
+-keep class course.labs.fragmentslab.FriendsFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class course.labs.fragmentslab.MainActivity { <init>(...); }
+

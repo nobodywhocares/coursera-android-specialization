@@ -1,0 +1,6 @@
+03-01 19:33:07.155: I/Lab-UserInterface(22401): Entered footerView.OnClickListener.onClick()
+03-01 19:33:09.447: I/Lab-UserInterface(22401): Entered resetButton.OnClickListener.onClick()
+03-01 19:33:11.609: I/Lab-UserInterface(22401): Entered submitButton.OnClickListener.onClick()
+03-01 19:33:12.230: I/Lab-UserInterface(22401): Entered onActivityResult()
+03-01 19:33:12.801: I/Lab-UserInterface(22401): Entered onCheckedChanged()
+03-01 19:33:15.474: I/Lab-UserInterface(22401): Item 0: Title:t3,Priority:HIGH,Status:DONE,Date:2014-03-08 19:33:00

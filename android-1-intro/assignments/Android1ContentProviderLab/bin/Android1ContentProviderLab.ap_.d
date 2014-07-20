@@ -1,0 +1,24 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\Android1ContentProviderLab.ap_ \
+ : C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-hdpi\stub.jpg \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\layout\footer_view.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\layout\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\layout\place_badge_view.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\menu\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values\strings.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values-sw600dp\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values-sw720dp-land\dimens.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values-v11\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\res\values-v14\styles.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\AndroidManifest.xml \

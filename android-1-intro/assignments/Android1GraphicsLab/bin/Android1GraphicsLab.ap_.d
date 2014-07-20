@@ -1,0 +1,23 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\Android1GraphicsLab.ap_ \
+ : C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-hdpi\b128.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-hdpi\b64.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-hdpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-ldpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-mdpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\layout\main.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\raw\bubble_pop.wav \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\res\values\strings.xml \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-hdpi\b128.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-hdpi\b64.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-hdpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-ldpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-mdpi\icon.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1GraphicsLab\bin\AndroidManifest.xml \

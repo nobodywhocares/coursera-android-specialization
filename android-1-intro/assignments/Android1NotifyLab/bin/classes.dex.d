@@ -1,0 +1,22 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes.dex : \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\BuildConfig.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\DownloaderTask$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\DownloaderTask.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\FeedFragment.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\FriendsFragment.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\MainActivity$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\MainActivity.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$attr.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$dimen.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$drawable.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$id.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$layout.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$raw.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$string.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R$style.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\R.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\SelectionListener.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\TestFrontEndActivity$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\TestFrontEndActivity$2.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\TestFrontEndActivity$3.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1NotifyLab\bin\classes\course\labs\notificationslab\TestFrontEndActivity.class \

@@ -1,0 +1,19 @@
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes.dex : \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\BuildConfig.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\MockLocationProvider.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceDownloaderTask.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceRecord.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceViewActivity$1.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceViewActivity.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceViewAdapter$ViewHolder.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\PlaceViewAdapter.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\provider\PlaceBadgesContract.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$attr.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$dimen.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$drawable.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$id.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$layout.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$menu.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$string.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R$style.class \
+C:\Users\mark.mullally@issinc.com\Documents\NetBeansProjects\Android1ContentProviderLab\bin\classes\course\labs\contentproviderlab\R.class \

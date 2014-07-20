@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:24
+-keep class course.labs.todomanager.AddToDoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class course.labs.todomanager.ToDoManagerActivity { <init>(...); }
+

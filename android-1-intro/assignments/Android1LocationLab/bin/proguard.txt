@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:21
+-keep class course.labs.locationlab.PlaceViewActivity { <init>(...); }
+

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:15
+-keep class edu.vuum.mocca.provider.MoocProvider { <init>(...); }
+

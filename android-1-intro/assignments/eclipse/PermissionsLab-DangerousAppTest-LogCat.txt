@@ -1,0 +1,3 @@
+02-16 20:45:41.329: I/Lab-Permissions(15905): Entered startBookMarksActivity()
+02-16 20:45:42.280: I/Lab-Permissions(15905): Entered startGoToDangerousActivity()
+02-16 20:45:44.092: I/Lab-Permissions(15905): Entered startDangerousActivity()
